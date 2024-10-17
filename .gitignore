@@ -1,0 +1,20 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Configuration IDE
+.vscode/
+.idea/
+
+# Streamlit config
+.streamlit/
+
+# Fichiers logs ou autres fichiers temporaires
+*.log
+*.tmp
